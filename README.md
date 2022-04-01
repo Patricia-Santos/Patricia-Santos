@@ -1,6 +1,6 @@
 <h2> Hi, I'm Patrícia!👩🏻‍💻 </h2>
 <div>
- <img align='right' border-radius: 10px src="https://media.giphy.com/media/bBN71lppkU8yl9svi8/giphy.gif" width="230">
+ <img align='right' src="https://media.giphy.com/media/bBN71lppkU8yl9svi8/giphy.gif" width="230">
 </div>
  
 <div>
