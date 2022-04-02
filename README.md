@@ -1,6 +1,6 @@
 <h2> Hi, I'm Patrícia!👩🏻‍💻 </h2>
 <div>
- <img align="right" alt="logo" height="230" width="25%" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/959617161721184280/959617254746632192/Code_typing-bro.png">
+ <img align="right" alt="logo" height="230" width="27%" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/959617161721184280/959617254746632192/Code_typing-bro.png">
 </div>
 
  
