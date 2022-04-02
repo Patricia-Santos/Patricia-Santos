@@ -2,6 +2,7 @@
 <div>
  <img align='right' src="https://media.giphy.com/media/bBN71lppkU8yl9svi8/giphy.gif" width="230">
 </div>
+
  
 <div>
  <a href = "mailto:scunha.patricia@gmail.com"><img height="25" width="90" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -21,7 +22,8 @@ const patricia = {
 
 <div>
   <a href="https://github.com/Patricia-Santos">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Patricia-Santos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Patricia-Santos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="140em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patricia-Santos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 
