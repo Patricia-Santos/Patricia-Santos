@@ -1,6 +1,6 @@
 <h2> Hi, I'm Patrícia!👩🏻‍💻 </h2>
 <div>
- <img align='right' src="https://media.giphy.com/media/bBN71lppkU8yl9svi8/giphy.gif" height="230" width="230">
+ <img align="right" alt="Rick-Boneco" height="230" width="230" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/959617161721184280/959617254746632192/Code_typing-bro.png">
 </div>
 
  
