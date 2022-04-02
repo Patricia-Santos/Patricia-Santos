@@ -1,6 +1,6 @@
 <h2> Hi, I'm Patrícia!👩🏻‍💻 </h2>
 <div>
- <img align="right" alt="Rick-Boneco" height="230" width="230" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/959617161721184280/959617254746632192/Code_typing-bro.png">
+ <img align="right" alt="logo" height="230" width="230" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/959617161721184280/959617254746632192/Code_typing-bro.png">
 </div>
 
  
@@ -22,8 +22,8 @@ const patricia = {
 
 <div>
   <a href="https://github.com/Patricia-Santos">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Patricia-Santos&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-   <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patricia-Santos&layout=compact&langs_count=7&theme=ocean_dark"/>
+  <img  width="45%" src="https://github-readme-stats.vercel.app/api?username=Patricia-Santos&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+   <img   width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patricia-Santos&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
   
 
