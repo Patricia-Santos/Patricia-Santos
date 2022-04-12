@@ -22,6 +22,6 @@ const patricia = {
 
 <div>
   <a href="https://github.com/Patricia-Santos">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Patricia-Santos&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patricia-Santos&layout=compact&langs_count=7&theme=ocean_dark"/>
+  <img width="50%"  height="200" src="https://github-readme-stats.vercel.app/api?username=Patricia-Santos&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+   <img width="49%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patricia-Santos&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
