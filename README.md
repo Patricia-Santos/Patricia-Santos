@@ -13,7 +13,7 @@
 const patricia = {
   pronouns: "she" | "her",
   languages: [Java, HTML, CSS, Python, Javascript, C],
-  learning: [React, C++]
+  learning: [C++, React, Typescript, node.js]
    
 //Always learning
 }
