@@ -1,13 +1,12 @@
-<h2> Hi, I'm Patrícia!👩🏻‍💻 </h2>
-<div>
- <img align="right" alt="logo" height="230" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/959617161721184280/959617254746632192/Code_typing-bro.png">
-</div>
 
- 
 <div>
  <a href = "mailto:scunha.patricia@gmail.com"><img height="25" width="90" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/patr%C3%ADcia-santos-1752bb224/" target="_blank"><img height="25" width="90" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+![Nids Banner Image](./mybanner.png)
+ 
+---
 
 ```javascript
 const patricia = {
