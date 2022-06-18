@@ -1,6 +1,6 @@
 ![Nids Banner Image](./mybanner.png) <hr>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patricia-Santos&layout=compact&langs_count=7&theme=ocean_dark" align="right"/>
+<img height="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patricia-Santos&layout=compact&langs_count=7&theme=ocean_dark" align="right"/>
 
  <h3>Connect with me:</h3>
  <p align="left">
