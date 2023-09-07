@@ -1,4 +1,5 @@
-![Nids Banner Image](./mybanner.png) <hr>
+![image](https://github.com/Patricia-Santos/Patricia-Santos/assets/54537516/6db2b073-4b50-4f67-86b9-a784f54af91e) <hr>
+
 
 <img height="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patricia-Santos&layout=compact&langs_count=7&theme=material-palenight" align="right"/>
 
