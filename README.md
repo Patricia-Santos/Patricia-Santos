@@ -7,7 +7,7 @@ I'm a Backend Developer focused on building solid, scalable, and clean applicati
 ---
 * 🎓 Graduated in **Systems Analysis and Development** and **IT Technician** at *IFPB*
 * ☕ Main focus on **Java** and the **Spring Boot** ecosystem
-* 🗄️ Solid background working with databases like **SQL, Oracle, and MongoDB**
+* 🗄️ Solid background working with databases like **PostgreSQL, Oracle, and MongoDB**
 * 🌱 Currently building new projects and expanding my backend knowledge
 * 🚀 Passionate about clean code and efficient software architecture
 
@@ -18,7 +18,7 @@ I'm a Backend Developer focused on building solid, scalable, and clean applicati
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Oracle-F00000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </div>
